@@ -19,7 +19,6 @@ public class ConsolaOlimpicos
 	 * Esta es la calculadora de estadísticas que se usará para hacer todas las
 	 * operaciones de la aplicación. Esta calculadora también contiene toda la
 	 * información sobre los atletas después de que se cargue desde un archivo.
-	 * ewdwewew
 	 */
 	private CalculadoraEstadisticas calculadora;
 
